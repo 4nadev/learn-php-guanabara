@@ -23,12 +23,23 @@
                 <input class="border border-indigo-200 p-1 rounded" type="search" id="pesquisa" name="pesquisa" placeholder="Digite o exercicio aqui">
                 <button class="border bg-sky-600 text-white p-1 rounded" type="submit">Pesquisar</button>
             </form>
-            <div class="flex flex-col gap-2">
-                <div class="flex flex-col text-left justify-start bg-blue-300  p-3 rounded">
-                    <h2 class="text-xl">Ex00</h2>
-                    <p class="text-sm text-slate-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, ab facere, itaque ipsam hic maiores laudantium nihil at dolore optio id! Tempora et voluptatibus ipsam tempore natus consequatur vitae! Enim!</p>
+            <div class="flex flex-col gap-4">
+                <div class="flex flex-col gap-2 border border-indigo-200 rounded">
+                    <a href="./ex00/ex.php">
+                        <div class="flex flex-col text-left justify-start bg-blue-100  p-3 rounded">
+                            <h2 class="text-xl">Ex00</h2>
+                            <p class="text-sm text-slate-600">Meu primeiro Olá Mundo em php!</p>
+                        </div>
+                    </a>
                 </div>
-               
+                <div class="flex flex-col gap-2 border border-indigo-200 rounded">
+                    <a href="./ex01/index.php">
+                        <div class="flex flex-col text-left justify-start bg-blue-100  p-3 rounded">
+                            <h2 class="text-xl">Ex01</h2>
+                            <p class="text-sm text-slate-600">Meu primeiro Olá Mundo em php!</p>
+                        </div>
+                    </a>
+                </div>
             </div>
     </section>
 
