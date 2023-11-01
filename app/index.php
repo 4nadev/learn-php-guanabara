@@ -56,6 +56,14 @@
                         </div>
                     </a>
                 </div>
+                <div class="flex flex-col gap-2 border border-indigo-200 rounded">
+                    <a href="./ex04/index.php">
+                        <div class="flex flex-col text-left justify-start bg-blue-100  p-3 rounded">
+                            <h2 class="text-xl">Ex04</h2>
+                            <p class="text-sm text-slate-600">Obtendo dados do formulario!</p>
+                        </div>
+                    </a>
+                </div>
             </div>
     </section>
 
